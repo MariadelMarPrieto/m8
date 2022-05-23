@@ -2256,7 +2256,8 @@ CV / News
       float: left;
       max-width: 80%; }
     .cta-cover h1 strong {
-      display: block; }
+      display: block;
+     color:white; }
     .cta-cover .button {
       margin-top: 1.2rem; }
     .cta-cover .try {
