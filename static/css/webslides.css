@@ -1069,7 +1069,8 @@ h3 [class*='bg-'] {
 .text-intro,
 [class*='content-'] p {
   font-size: 2.4rem;
-  line-height: 4rem; }
+  line-height: 4rem; 
+  color:white;}
 
 /* -- Serif -- */
 .text-serif,
