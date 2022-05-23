@@ -867,7 +867,9 @@ h1 {
       line-height: 7.2rem; } }
 
 h1 span {
-  font-style: italic; }
+  font-style: italic;
+  color:white;
+ }
 
 h2 {
   font-size: 3.2rem;
