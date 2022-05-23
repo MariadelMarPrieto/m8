@@ -860,11 +860,13 @@ h4 svg {
 
 h1 {
   font-size: 4rem;
-  line-height: 5.6rem; }
+  line-height: 5.6rem;
+  color:white; }
   @media (min-width: 768px) {
     h1 {
       font-size: 5.6rem;
-      line-height: 7.2rem; } }
+      line-height: 7.2rem;
+      color:white; } }
 
 h1 span {
   font-style: italic;
