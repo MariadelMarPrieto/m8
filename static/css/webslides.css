@@ -234,7 +234,7 @@ sub {
   vertical-align: baseline; }
 
 sup {
-  bottom: 1ex; }
+  bottom: 2ex; }
 
 sub {
   top: .5ex; }
