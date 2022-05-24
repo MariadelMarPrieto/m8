@@ -216,7 +216,8 @@ ol {
 
 b,
 strong {
-  font-weight: 600; }
+  font-weight: 600;
+  color:white;}
 
 a {
   background-color: transparent; }
